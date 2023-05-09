@@ -2,6 +2,12 @@
     padding: 0;
     margin: 0;
 }
+body{
+    background-image: url(myimage.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 h1{
     background-color: blue;
     color: white;
